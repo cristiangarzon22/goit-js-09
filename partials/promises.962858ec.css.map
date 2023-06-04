@@ -1,0 +1,1 @@
+{"mappings":"ACAA,qBAIA","sources":["partials/promises.962858ec.css","src/css/promises.css"],"sourcesContent":[".form {\n  font-size: 30px;\n}\n\n.inpt {\n  font-size: 20px;\n}\n\n/*# sourceMappingURL=promises.962858ec.css.map */\n",".form{\n    font-size: 30px;\n}\n\n.inpt{\n    font-size: 20px;\n}"],"names":[],"version":3,"file":"promises.962858ec.css.map"}
