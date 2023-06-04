@@ -1,0 +1,26 @@
+.field{
+    font-size: 30px;
+}
+
+.value{
+    color: red;
+}
+
+
+.label{
+   text-transform: uppercase;
+   color: blue;
+}
+
+#datetime-picker{
+    font-size: 30px;
+    color: red;
+    border-radius: 5%;
+    border: 2px solid rgb(255, 147, 47);
+}
+
+.btn{
+    font-size: 30px;
+    text-transform: uppercase;
+    color: rgba(0, 128, 0, 0.493);
+}
